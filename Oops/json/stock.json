@@ -1,0 +1,13 @@
+{
+  "Stock": {
+    "StockNames": [
+      "arg"
+    ],
+    "Number_of_shares": [
+      "10"
+    ],
+    "SharePrice": [
+      "10"
+    ]
+  }
+}

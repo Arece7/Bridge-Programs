@@ -1,0 +1,34 @@
+[
+    {
+      "sname": "eric",
+      "sprice": "646",
+      "squantity": "132",
+      "dateTime": "14/8/2018"
+    },
+    {
+      "sname": "tata",
+      "sprice": "656",
+      "squantity": "100",
+      "dateTime": "14/8/2018"
+    },
+    {
+      "sname": "texas",
+      "sprice": "1256",
+      "squantity": "145",
+      "dateTime": "14/8/2018"
+    },
+    {
+      "sname": "ibm",
+      "sprice": "1000",
+      "squantity": "212",
+      "dateTime": "14/8/2018"
+    },
+    
+    {
+      "sname": "audi",
+      "sprice": "100",
+      "squantity": "170",
+      "dateTime": "17/8/2018"
+    }
+   
+  ]

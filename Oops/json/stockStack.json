@@ -1,0 +1,47 @@
+[
+  {
+    "sname": "thomson",
+    "sprice": "1000",
+    "squantity": "160"
+  },
+  {
+    "sname": "eric",
+    "sprice": "646",
+    "squantity": "132"
+  },
+  {
+    "sname": "tata",
+    "sprice": "656",
+    "squantity": "12"
+  },
+  {
+    "sname": "texas",
+    "sprice": "1256",
+    "squantity": "145"
+  },
+  {
+    "sname": "ibm",
+    "sprice": "1000",
+    "squantity": "212"
+  },
+  {
+    "sname": "ibm",
+    "sprice": "1000",
+    "squantity": "10"
+  },
+  {
+    "sname": "audi",
+    "sprice": "100",
+    "squantity": "170"
+  },
+  {
+    "sname": "abc",
+    "sprice": "500",
+    "squantity": "10"
+  },
+  {
+    "sname": "ibm",
+    "sprice": "100",
+    "squantity": 50
+  }
+]

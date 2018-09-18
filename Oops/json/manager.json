@@ -1,0 +1,16 @@
+{
+  "Stock": {
+    "StockNames": [
+      "ARGHYA",
+      "SOU"
+    ],
+    "Number_of_shares": [
+      "20",
+      "15"
+    ],
+    "SharePrice": [
+      "100",
+      "150"
+    ]
+  }
+}

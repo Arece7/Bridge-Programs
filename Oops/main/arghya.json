@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Arghya",
+    "lastName": "Ray",
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700003"
+    },
+    "phoneNumber": "897541256"
+  },
+  {
+    "firstName": "Arghya",
+    "lastName": "Ray",
+    "address": {
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700003"
+    },
+    "phoneNumber": "85965854"
+  }
+]
